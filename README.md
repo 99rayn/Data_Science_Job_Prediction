@@ -31,7 +31,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone : 
+git clone : https://github.com/99rayn/Data_Science_Job_Prediction
 
 Open your SQL client and connect to your database.
 
