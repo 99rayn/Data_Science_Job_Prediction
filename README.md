@@ -1,5 +1,6 @@
 # Data_Science_Job_Prediction
 
+![dataset-cover](https://github.com/user-attachments/assets/0b52df94-10e3-416a-b31e-aa7d1feb6110)
 
 Overview
 
